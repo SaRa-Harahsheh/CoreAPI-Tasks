@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SaraWithArt.Server.props" />
+</Project>

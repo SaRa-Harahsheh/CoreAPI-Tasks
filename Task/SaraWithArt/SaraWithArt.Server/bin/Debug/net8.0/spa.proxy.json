@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:64310",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\..\\sarawithart.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\dto\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\dto\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\idataservice\\idataservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\idataservice\\idataservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\dataservice\\dataservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\dataservice\\dataservicee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|c:\\users\\orange\\desktop\\sarawithart\\sarawithart.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17BFE947-459B-4A7E-9F92-B5970CE62F7B}|SaraWithArt.Server\\SaraWithArt.Server.csproj|solutionrelative:sarawithart.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\DTO\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\DTO\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\DTO\\CategoryRequest.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\DTO\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:27:16.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataServicee.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\IDataService\\IDataServicee.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\IDataService\\IDataServicee.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\IDataService\\IDataServicee.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\IDataService\\IDataServicee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:27:33.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataServicee.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\DataService\\DataServicee.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\DataService\\DataServicee.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\DataService\\DataServicee.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\DataService\\DataServicee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:26:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:13:25.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:55:13.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Models\\Product.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:23:40.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Models\\Category.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:23:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\appsettings.json",
+              "RelativeToolTip": "SaraWithArt.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T20:21:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Program.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Program.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:20:59.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "SaraWithArt.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SaraWithArt\\SaraWithArt.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "SaraWithArt.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:20:18.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
